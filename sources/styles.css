@@ -247,6 +247,11 @@ footer a:link{
     color: blue;
 }
 
+.gal.nig img{
+    position: relative;
+    bottom: 140px;
+}
+
 @media only screen and (max-width: 425px){
   
     .hamburger{
