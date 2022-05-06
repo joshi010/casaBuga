@@ -338,6 +338,14 @@ footer a:link{
     .gal.big{
         width: 100%;
     }
+
+    .cel-only{
+        display: block;
+    }
+
+    a.cel-only:link{
+        text-decoration: underline;
+    }
 }
 
 @media only screen and (max-width: 1024px){
