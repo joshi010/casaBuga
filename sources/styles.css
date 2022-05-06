@@ -163,6 +163,7 @@ a:link{
     width: 280px;
     height: 210px;
     cursor: pointer;
+    transition: 0.3s
 }
 
 .gal img{
