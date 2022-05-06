@@ -351,6 +351,19 @@ footer a:link{
     a.cel-only:link{
         text-decoration: underline;
     }
+
+    .icon{
+        width: 66px;
+        height: 66px;
+    }
+
+    .icon img{
+        width: 37px;
+    }
+
+    .cont{
+        padding: 100px 0;
+    }
 }
 
 @media only screen and (max-width: 1024px){
